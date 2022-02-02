@@ -1,0 +1,12 @@
+print("hello world")
+print("hello world")
+print("\nhello world")
+print("\thello world")
+#print("hello world")
+print("commented one is nothing")
+print(len("commented one is nothing"))
+count=len("comment")
+print(count)
+print(type("enter your name -: "))
+x="enter your name -: "
+print(type(x))
